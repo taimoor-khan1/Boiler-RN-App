@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "797465679240",
+    "firebase_url": "https://boiler-room-app-default-rtdb.firebaseio.com",
+    "project_id": "boiler-room-app",
+    "storage_bucket": "boiler-room-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797465679240:android:590c98f8120afa1656d63d",
+        "android_client_info": {
+          "package_name": "com.boilerroomtrades.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797465679240-6asndgcm6epijuivbsrmbinja7l1e9ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUPfiQmJo7ge2n1MLv2Lbx8C5FC6LLKXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797465679240-6asndgcm6epijuivbsrmbinja7l1e9ej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797465679240-gfd5dnlamfjnn5oqck1o74dvgvt8s3ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.boilerroomtrades.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
